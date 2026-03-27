@@ -214,10 +214,10 @@ export default function App() {
                 </p>
               </div>
               <div className="space-y-3">
-                <a href="#paypal" className="block w-full text-center bg-black text-white font-black uppercase py-3 border-2 border-black hover:bg-red-600 hover:border-red-600 transition-colors">
+                <a href="javascript:void(0)" className="block w-full text-center bg-black text-white font-black uppercase py-3 border-2 border-black hover:bg-red-600 hover:border-red-600 transition-colors">
                   PayPal
                 </a>
-                <a href="#bank" className="block w-full text-center bg-white text-black font-black uppercase py-3 border-2 border-black hover:bg-gray-100 transition-colors">
+                <a href="javascript:void(0)" className="block w-full text-center bg-white text-black font-black uppercase py-3 border-2 border-black hover:bg-gray-100 transition-colors">
                   Überweisung
                 </a>
               </div>
@@ -247,10 +247,10 @@ export default function App() {
               <div>
                 <h4 className="text-xl font-black uppercase mb-3">Netzwerke</h4>
                 <div className="flex gap-4">
-                  <a href="#insta" className="bg-black p-3 hover:bg-white hover:text-black transition-colors border-2 border-black">
+                  <a href="javascript:void(0)" className="bg-black p-3 hover:bg-white hover:text-black transition-colors border-2 border-black">
                     <Instagram className="w-6 h-6" />
                   </a>
-                  <a href="#telegram" className="bg-black p-3 hover:bg-white hover:text-black transition-colors border-2 border-black">
+                  <a href="javascript:void(0)" className="bg-black p-3 hover:bg-white hover:text-black transition-colors border-2 border-black">
                     <Send className="w-6 h-6" />
                   </a>
                 </div>
